@@ -1,0 +1,16 @@
+# PlatformIO / Build Artifacts
+.pio/
+.vscode/
+.clangd/
+
+# KiCad Temp- und Backup-Dateien
+/hardware/*-backups/
+/hardware/*.kicad_prl
+/hardware/*.bck
+/hardware/*.lck
+/hardware/*.tmp
+/hardware/_autosave-*
+
+# System-Dateien
+.DS_Store
+Thumbs.db
